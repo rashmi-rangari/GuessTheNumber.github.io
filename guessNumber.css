@@ -38,13 +38,21 @@
   height: 40px;
   border-radius: 5px;
   border-color: gray;
-  margin:0;
+  margin-top: 20px;
+  /* margin: 0; */
   margin-left: auto;
   margin-right: auto;
 }
+
 #banner {
   color: yellow;
-  padding: 20 600 0;
+  width: 300px;
+  height: 40px;
+  border-radius: 5px;
+  padding-top: 50px;
+  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
   font-size: 40px;
 }
 
